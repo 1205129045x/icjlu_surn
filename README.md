@@ -10,7 +10,8 @@
 ***
 ## 如何使用
 ~~~
-git clone https://github.com/huxiaofan1223/jxnu_srun.git
-cd jxnu_srun
+git clone https://github.com/1205129045x/icjlu_surn.git
+cd icjlu_srun
 python icjlu_wifi.py
 ~~~
+
